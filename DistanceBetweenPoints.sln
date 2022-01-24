@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenPoints.API", "DistanceBetweenPoints.API\DistanceBetweenPoints.API.csproj", "{44AF1A14-7ED2-4F3E-803F-152C811FBED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenPoints.Services", "DistanceBetweenPoints.Services\DistanceBetweenPoints.Services.csproj", "{22B3E5C4-DC6B-4EED-B41D-A4DC3D8A4071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenPoints.Tests", "DistanceBetweenPoints.Tests\DistanceBetweenPoints.Tests.csproj", "{88BA5EE8-4AD6-4314-9499-B57ADD3A64F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AF1A14-7ED2-4F3E-803F-152C811FBED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF1A14-7ED2-4F3E-803F-152C811FBED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF1A14-7ED2-4F3E-803F-152C811FBED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF1A14-7ED2-4F3E-803F-152C811FBED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B3E5C4-DC6B-4EED-B41D-A4DC3D8A4071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B3E5C4-DC6B-4EED-B41D-A4DC3D8A4071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B3E5C4-DC6B-4EED-B41D-A4DC3D8A4071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B3E5C4-DC6B-4EED-B41D-A4DC3D8A4071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BA5EE8-4AD6-4314-9499-B57ADD3A64F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BA5EE8-4AD6-4314-9499-B57ADD3A64F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BA5EE8-4AD6-4314-9499-B57ADD3A64F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BA5EE8-4AD6-4314-9499-B57ADD3A64F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D645A734-721D-4BC5-B618-4A6891427957}
+	EndGlobalSection
+EndGlobal
